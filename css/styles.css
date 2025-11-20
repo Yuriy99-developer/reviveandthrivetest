@@ -1,0 +1,174 @@
+@font-face {
+    font-family: 'Fixel Variable';
+    src: url('FixelVariable.ttf') format('truetype');
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Singel SemiBold Demo';
+    src: url('Singel-SemiBoldDemo.ttf') format('truetype');
+    font-style: normal;
+}
+
+body {}
+
+ul,
+li {
+    list-style: none;
+}
+
+.top-of-page {
+    width: 1400px;
+    height: 647px;
+    margin: 0 auto;
+    background-image: url("../images/Screenshot_2025-07-26_at_14.26.38_1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.advertising-container {
+    display: flex;
+    width: 1360px;
+    height: 34px;
+    margin: 0 auto;
+    background-color: #101010;
+}
+
+.link {
+    /* font-family: "Fixel Variable", sans-serif; */
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 9;
+    color: #fcfcfc;
+    margin: auto;
+}
+
+.glass-effect {
+    width: 1200px;
+    height: 48px;
+    margin: 20px auto 0;
+    padding: 10px 20px;
+    border-radius: 30px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.05);
+    background: rgba(252, 252, 252, 0.1);
+}
+
+.second-part-of-the-page {
+    display: flex;
+    width: 1400px;
+    height: 59px;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.phrase-1 {
+    display: flex;
+    font-family: "Fixel Thin SemCond", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 130%;
+    color: #101010;
+    margin: 0;
+    align-items: center;
+}
+
+.logo-1 {
+    color: #fcfcfc;
+}
+
+.main {
+    width: 1400px;
+    margin: 0 auto;
+}
+
+.third-part-of-the-page {
+    display: flex;
+    flex-direction: column;
+    width: 1200px;
+    height: 489px;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+
+.container-2 {
+    display: flex;
+    width: 1190px;
+    height: 76px;
+    justify-content: space-between;
+}
+
+.container-2-1 {
+    display: flex;
+    flex-direction: column;
+    width: 402px;
+    height: 76px;
+    justify-content: space-between;
+}
+
+.title-1 {
+    margin: 0;
+}
+
+.phrase-2 {
+    margin: 0;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 120%;
+    color: #6e6e6e;
+}
+
+.button-1 {
+    width: 285px;
+    height: 48px;
+    border: none;
+    border-radius: 900px;
+    padding: 10px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.07);
+    background: rgba(252, 252, 252, 0.1), rgba(255, 255, 255, 0.03);
+}
+
+.cards {
+    display: flex;
+    width: 1200px;
+    height: 393px;
+    margin: 0;
+    padding: 0;
+    gap: 0 20px;
+}
+
+.card {
+    width: 285px;
+    height: 393px;
+}
+
+.image-1 {
+    width: 265px;
+    height: 167px;
+}
+
+.title-1-1 {
+    width: 265px;
+}
+
+.fourth-part-of-the-page {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.title-2 {
+    margin: 0;
+}
+
+.phrase-3 {
+    margin: 0;
+}
+
+.cards-2 {
+    display: flex;
+    padding: 0;
+}
+
+.categories {
+    width: 1200px;
+    margin: 0 auto;
+}
